@@ -4,7 +4,7 @@
 **Real-Time Object Detection for Autonomous Vehicles**
 
 ## Team Members
-- Mrittiga M(team members)
+- Mrittiga M(team Leader)
 - Snekha C
 - praveenraj K
 
@@ -29,15 +29,6 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
   - GPU (recommended for model training)
   - Camera for real-time testing
 
-## Project Plan
-| Task | Assigned Member | Timeline |
-|------|---------------|----------|
-| Research and Dataset Collection | Mohamed | Week 1-2 |
-| Model Selection and Training | Abdelaziz | Week 3-4 |
-| Real-Time Integration & Optimization | Basma | Week 5-6 |
-| Testing and Validation | Ghada | Week 7 |
-| Documentation and Final Report | Mayar | Week 8 |
-
 ## Functional and Non-Functional Requirements
 ### **Functional Requirements:**
 - Detect objects in real time.
@@ -50,5 +41,6 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
 - Scale to different camera resolutions.
 - Optimize performance for GPUs and edge devices.
 - Provide a user-friendly interface for monitoring detections.
+
 
 
