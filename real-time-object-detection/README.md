@@ -1,7 +1,7 @@
-# Real-Time Object Detection for Autonomous Vehicles
+# A HYBRID ATTENTION FUSION FRAMEWORKS FOR OBJECT DETECTION IN AUTONOMOUS VEHICLES
 
 ## Project Name
-**Real-Time Object Detection for Autonomous Vehicles**
+**A HYBRID ATTENTION FUSION FRAMEWORKS FOR OBJECT DETECTION IN AUTONOMOUS VEHICLES**
 
 ## Team Members
 - Mrittiga M(team Leader)
@@ -41,6 +41,7 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
 - Scale to different camera resolutions.
 - Optimize performance for GPUs and edge devices.
 - Provide a user-friendly interface for monitoring detections.
+
 
 
 
