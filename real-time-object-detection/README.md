@@ -42,6 +42,10 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
 - Optimize performance for GPUs and edge devices.
 - Provide a user-friendly interface for monitoring detections.
 
+## Output
+"C:\final yr project ideas\New folder\real-time-object-detection\exp1\weights\train_batch0.jpg"
+
+
 
 
 
