@@ -4,11 +4,9 @@
 **Real-Time Object Detection for Autonomous Vehicles**
 
 ## Team Members
-- **Abdelaziz Nasser Abdelaziz Mohamed** (Team Leader)
-- **Mayar Alaa Aldin Mohran**
-- **Ghada Nasser Amin**
-- **Basma Ahmed Mahmoud**
-- **Mohamed Elshahat Mohamed**
+- Mrittiga M(team members)
+- Snekha C
+- praveenraj K
 
 ## Project Idea
 This project aims to develop a **real-time object detection system** for autonomous vehicles. The system will identify, classify, and track objects such as **pedestrians, vehicles, traffic signs, and obstacles** using deep learning techniques and computer vision.
@@ -53,8 +51,4 @@ Autonomous vehicles require advanced perception systems to ensure safe navigatio
 - Optimize performance for GPUs and edge devices.
 - Provide a user-friendly interface for monitoring detections.
 
-### Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/Abdelaziz-NaSSeR/real-time-object-detection.git
-   cd real-time-object-detection
+
